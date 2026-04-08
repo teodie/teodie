@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">  Hi 👋, I am Teodie </h1> 
 
-<!--
-**teodie/teodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">A Computer Engineer with passion on solving real world problem with help of Software and Electronics</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web and Mobile application.
+- 🌱 I’m currently learning as a freelancer to sell and get clients.
+- 💬 Ask me about React Native, Nextjs and System design
+- ⚡ Fun fact: Inches is based on centimeter to become standard.
+
+
+### 🛠️ Languages and Tool
+
+![JavaScript](https://img.shields.io/badge/javascript-f8dc3d?style=for-the-badge&logo=javascript&logoColor=2e2e2c)
+![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=linux)
+![TypeScript](https://img.shields.io/badge/typescript-007bcc?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-ffd94e?style=for-the-badge&logo=python)
+![MongoDB](https://img.shields.io/badge/mongodb-00684a?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind-1ab6bd?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-006eb5?style=for-the-badge&logo=docker&logoColor=white)
+
+          
+                     
