@@ -1,6 +1,6 @@
 <h1 align="center">  Hi 👋, I am Teodie </h1> 
 
-<p align="center">A Computer Engineer with passion on solving real world problem with help of Software and Electronics</p>
+<p align="center">A Computer Engineer with passion on solving real world problems with help the of Software and Electronics</p>
 
 
 - 🔭 I’m currently working on Web and Mobile application.
