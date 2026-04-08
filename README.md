@@ -20,5 +20,5 @@
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/docker-006eb5?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Teodie Github Stats](https://github-readme-stats.vercel.app/api?username=teodie)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
                      
