@@ -1,5 +1,9 @@
 <h1 align="center">  Hi 👋, I am Teodie </h1> 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev;Electronic+Enthusiast;Mobile+Developer;" alt="Typing SVG" />
+</div>
+
 <p align="center">A Computer Engineer with passion on solving real world problems with help the of Software and Electronics</p>
 
 
